@@ -1,6 +1,1135 @@
 {
-  "status": "offline",
-  "updated_at": null,
-  "errors": {"setup": "최초 GitHub Actions 실행 전입니다."},
-  "items": []
+  "status": "ok",
+  "updated_at": "2026-11-09T04:00:50.877Z",
+  "checked_at": "2026-11-09T04:00:50.877Z",
+  "errors": {},
+  "items": [
+    {
+      "id": "tuk-8a4310f7e32c524400",
+      "title": "[대학일자리플러스센터] 2026 뿌리산업 특강(11/9 ~선착순 마감)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-09",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154700/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-423f7fcde72a3abc60",
+      "title": "[도서관] 11월 정보활용교육 안내 🍂",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-05",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154661/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-b0ea1501057a36c41d",
+      "title": "[교양전공설계센터]📢 RC 휴머니티_특강_AI와 (SF)소설 창작",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-05",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154646/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-1130f50ccb68a5ba6a",
+      "title": "[현장실습지원센터] &apos;26-겨울학기 국립생물자원관 실습생 모집(~11. 17.)",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-11-05",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d8d9843d2740a3f75a",
+      "title": "[도서관] 피그마, 바이브코딩, AI영상제작 - 2026 디지털리터러시",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-04",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154596/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-537c7b0305e14a03a2",
+      "title": "[대학일자리플러스센터] 학과별 프로그램_컴퓨터공학부_취업 포트폴리오 완성 (4학년, 졸업생",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-11-03",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154567/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-e7680c3870e66dad53",
+      "title": "[대학일자리플러스센터] 코어업 프로그램_컴퓨터공학부_실전 취업 준비 (4학년, 졸업생 참여",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-11-03",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154566/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-ad3bfa7fbe2688b6fa",
+      "title": "[대학일자리플러스센터] 11/11 대한항공 기술훈련생 채용설명회",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-11-03",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154559/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-26a9ce443f360d0960",
+      "title": "[학사운영팀] 2026학년도 동계 계절학기 전남대학교 차세대통신혁신융합대학사업단 컨소시엄 간 학점교류 안내(~ 11.10.(화))",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-03",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-af57f0c37d3275e868",
+      "title": "학자금 중복지원 방지 사업 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-11-02",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154512/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-bd613ea330155f70ad",
+      "title": "[현장실습지원센터] &apos;26-겨울학기 TU인턴십(현장실습) 학생 모집(11.09.~12. 18.)",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-11-02",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-c0922d722c427d458a",
+      "title": "[대학일자리+센터]2026 TU A-Class 500 JOB Fair&진로톡톡 직무박람회",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-10-30",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154469/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-12b109f6ed575427cc",
+      "title": "★ 학과 홍보 콘텐츠(AI로 제작하는 숏폼) 공모전 ★ 개인 참여 가능, 신청기간 연장",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-10-30",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154466/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-1b3d5e2c238f8d714f",
+      "title": "2026학년도 동계방학 해외파견 프로그램 2차 신청 안내 (10/30, 금 10:00 ~ 11/4, 수 23:59까지)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-29",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-611226149da0b7dc86",
+      "title": "2026년도 통영시 저소득 대학생 장학금 지원 신청 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-10-28",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154389/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d95610e3088b2c1c45",
+      "title": "[도서관] 2026년 2학기 3회차 도서리뷰 안내🩷",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-28",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154376/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-28f81876c8f289fde9",
+      "title": "[현장실습지원센터] ER교과 관련 양식(연구노트, 결과보고서, 중간발표 심사표)",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-10-28",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-8ce7cf9d623be34ac8",
+      "title": "2026년도 2학기 동계방학 집중근로 프로그램 학생 희망근로지 신청 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154360/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-275fe7a1de735b6fe4",
+      "title": "2026년 하반기 강화군 대학생 등록금 지원사업 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154316/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-5cfe33c54aa9089927",
+      "title": "[대학일자리플러스센터] 2026 면접 프리패스(10/27~선착순 마감)",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154355/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-5cf82441cf9d5d53d1",
+      "title": "[대학일자리플러스센터] 수요자맞춤형프로그램_SNS 포트폴리오(10/27~선착순 마감)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154354/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-22ef0040c2283ab073",
+      "title": "[대학일자리플러스센터] AI 리터러시와 창의적 문제해결(10/27~선착순 마감)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154353/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-a5b516660316084355",
+      "title": "[대학일자리플러스센터] AI 실무프로젝트_미니앱 만들기(10/27~선착순 마감)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154352/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-38338a2311dfa26c86",
+      "title": "[교수학습개발센터] 📢 2026학년도 학습역량 강화 프로그램 참여후기 공모전 안내",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-10-27",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154351/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d5b8c4ac8e32563491",
+      "title": "2027학년도 1학기 성적향상장학금 신청 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-10-26",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154272/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-6dfd1a4848f0b6ed5c",
+      "title": "♥교육기획팀 [나만의 전공 보드게임 만들기 공모전] 수상자♥",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-10-26",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154273/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-6b066e79abe5de7ed0",
+      "title": "[IR센터]2026 교육성과 통합진단(6PAC핵심역량진단+TU교육만족도조사) 실시 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-26",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-b7fb59ebf064b81b70",
+      "title": "2026-2학기 학부생 분납자 3차등록 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-26",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-fb3d9ddaa354cb5e30",
+      "title": "2026년 2학기 선원가족장학생 선발 안내(신청기간 연장)",
+      "category": "교외장학금",
+      "type": "notice",
+      "date": "2026-10-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154239/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-bd5c5b5e99be8b1343",
+      "title": "[대학일자리플러스센터] 2026 청년미래직진_레고로 풀어가는 진로설계 3회차",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154257/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-8e953a69df5cfa7339",
+      "title": "[도서관] 2026학년도 3,4회차 재학생이용교육 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154254/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-7a71ba130b3cdd144b",
+      "title": "2026학년도 교내 5차 어학자격시험(11.20) 안내",
+      "category": "자격증",
+      "type": "notice",
+      "date": "2026-10-23",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-f92799a03e39b360d2",
+      "title": "[학생상담센터] 2026학년도 스트레스 관리 집단상담 신청 안내 (재공지)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-22",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154231/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-926d8cccea4b10b583",
+      "title": "★ 학과 홍보 콘텐츠(AI 제작 숏폼) 공모전 ★ 대상 50만원",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-10-22",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154229/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-71f0b8d4d348c41104",
+      "title": "2026년 2학기 푸른등대기부장학금 2차 장학생 모집 안내",
+      "category": "교외장학금",
+      "type": "notice",
+      "date": "2026-10-21",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154211/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d18a62c3262a706b4c",
+      "title": "2027년 엔지니어링인재육성재단 제2기 장학생 신규 모집 안내",
+      "category": "교외장학금",
+      "type": "notice",
+      "date": "2026-10-21",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154180/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-3c769e7e9bcb32bad2",
+      "title": "2026년 11월 각 군 모집일정 홍보",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-10-21",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-c9571439620ff28f11",
+      "title": "[현장실습지원센터] 2026 겨울학기 TU인턴십(현장실습) 설명회 참석 안내",
+      "category": "취업·인턴",
+      "type": "notice",
+      "date": "2026-10-20",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-6b20535a2a4ffb63a6",
+      "title": "2026년 인재림 제 7기 장학생 선발 안내",
+      "category": "교외장학금",
+      "type": "notice",
+      "date": "2026-10-19",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154080/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-632ad6d881bf21af42",
+      "title": "2026년 2학기 거창군 지역출신 대학생 등록금 지원사업 신청 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-10-16",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154076/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-ff428778fdc23ed1f1",
+      "title": "[대학공유협력센터] 2026 지역사회참여(CE 교과) 수강후기 공모전 접수 안내(10.7~12.1)",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-10-07",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-cf874482cbe4d599b1",
+      "title": "\"학자금 지원 구간\" 개편 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-09-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/153545/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-175dbdd9a8646ac68a",
+      "title": "[학사운영팀] 2026학년도 주요 학사제도 변경사항 공지",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-09-22",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-0cd5f85bdc15b228be",
+      "title": "[학사운영팀] 재입학 제도 시행 변경 예고(2027학년도 1학기 재입학부터)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-09-08",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-7c4a2d0d6a36caae33",
+      "title": "졸업예정증명서 발급에 대한 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-09-03",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d3d1509075089e1f4f",
+      "title": "[중요] 학점포기 제도 변경사항 안내(적용 시기: 26-2학기~)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-08-31",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-0ba629413e440c78b7",
+      "title": "2026학년도 2학기 조기취창업 신청 및 전공 SDU 신청 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-08-03",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-7cf190b575384681a0",
+      "title": "2026학년도 종합설계(창의작품형) 졸업작품지원비 신청 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-05-06",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-834fc3802eb7d335e1",
+      "title": "🌸 해당 공지 내 프로그램 홍보 무관(일정,비교과 외) 부서안내 없이 삭제예정(내용없음)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2025-09-18",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/143463/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    }
+  ]
 }
