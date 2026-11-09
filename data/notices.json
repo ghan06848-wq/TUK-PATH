@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-09T04:31:16.926Z",
-  "checked_at": "2026-11-09T04:31:16.926Z",
+  "updated_at": "2026-11-09T07:39:05.793Z",
+  "checked_at": "2026-11-09T07:39:05.794Z",
   "errors": {},
   "items": [
     {
@@ -13,6 +13,75 @@
       "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154700/artclView.do",
       "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
       "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-fe6289cfdf55bbfa2e",
+      "title": "2026학년도 동계 캐나다 토론토 캡스톤 디자인 참가자 모집 안내( ~ 11.15.(일), 23:59까지)",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-11-09",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-8dd240274a572cf3a0",
+      "title": "2026학년도 동계 라오스 해외봉사 프로그램 신청 안내 ( ~ 11.15.(일), 23:59까지)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-09",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-e43a0a5cb661f1e81c",
+      "title": "[학사운영팀] 2026학년도 2학기 유급신청 안내(11. 16.(월) 10:00~20.(금) 17:00)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-09",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
       "majors": [
         "전체"
       ],
