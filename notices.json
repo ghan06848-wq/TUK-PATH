@@ -1,0 +1,6 @@
+{
+  "status": "offline",
+  "updated_at": null,
+  "errors": {"setup": "최초 GitHub Actions 실행 전입니다."},
+  "items": []
+}
