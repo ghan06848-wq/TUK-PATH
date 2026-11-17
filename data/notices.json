@@ -1,9 +1,78 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-17T01:25:41.912Z",
-  "checked_at": "2026-11-17T01:25:41.913Z",
+  "updated_at": "2026-11-17T07:32:24.335Z",
+  "checked_at": "2026-11-17T07:32:24.335Z",
   "errors": {},
   "items": [
+    {
+      "id": "tuk-9757fddf95fc636e0f",
+      "title": "[학사운영팀] 학기 말 휴학자 성적인정제도 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-17",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-437cc627cde245cf9a",
+      "title": "[학사운영팀] 2026-동계 계절학기 SDU 수업운영 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-17",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-d58e10fdcaeab77699",
+      "title": "★2026학년도 겨울학기 현장프로젝트교과 수강신청 안내★(강의계획서 포함)",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-17",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
     {
       "id": "tuk-2d656848a655011de0",
       "title": "2026-2학기 국가장학금Ⅱ유형(경제사정 곤란자_실직,폐업) 장학금 신청 안내(부모님 실직,폐업만 신청가능함)",
