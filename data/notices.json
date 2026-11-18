@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-18T01:29:14.474Z",
-  "checked_at": "2026-11-18T01:29:14.474Z",
+  "updated_at": "2026-11-18T07:30:03.401Z",
+  "checked_at": "2026-11-18T07:30:03.401Z",
   "errors": {},
   "items": [
     {
@@ -11,6 +11,29 @@
       "type": "notice",
       "date": "2026-11-18",
       "url": "https://tukorea.ac.kr/bbs/tukorea/374/154914/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-517398cb9676ab89a9",
+      "title": "2026년 (재)청로장학재단 제7기 장학생 선발 안내",
+      "category": "교외장학금",
+      "type": "notice",
+      "date": "2026-11-18",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154927/artclView.do",
       "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
       "source": "한국공학대학교 장학공지",
       "majors": [
@@ -1040,14 +1063,14 @@
       ]
     },
     {
-      "id": "tuk-fb3d9ddaa354cb5e30",
-      "title": "2026년 2학기 선원가족장학생 선발 안내(신청기간 연장)",
-      "category": "교외장학금",
+      "id": "tuk-bd5c5b5e99be8b1343",
+      "title": "[대학일자리플러스센터] 2026 청년미래직진_레고로 풀어가는 진로설계 3회차",
+      "category": "대외활동",
       "type": "notice",
       "date": "2026-10-23",
-      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154239/artclView.do",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154257/artclView.do",
       "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
-      "source": "한국공학대학교 장학공지",
+      "source": "한국공학대학교 비교과공지",
       "majors": [
         "전체"
       ],
@@ -1063,14 +1086,14 @@
       ]
     },
     {
-      "id": "tuk-bd5c5b5e99be8b1343",
-      "title": "[대학일자리플러스센터] 2026 청년미래직진_레고로 풀어가는 진로설계 3회차",
-      "category": "대외활동",
+      "id": "tuk-fb3d9ddaa354cb5e30",
+      "title": "2026년 2학기 선원가족장학생 선발 안내(신청기간 연장)",
+      "category": "교외장학금",
       "type": "notice",
       "date": "2026-10-23",
-      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154257/artclView.do",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154239/artclView.do",
       "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
-      "source": "한국공학대학교 비교과공지",
+      "source": "한국공학대학교 장학공지",
       "majors": [
         "전체"
       ],
