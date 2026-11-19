@@ -1,9 +1,32 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-19T07:31:37.476Z",
-  "checked_at": "2026-11-19T07:31:37.476Z",
+  "updated_at": "2026-11-19T13:30:17.912Z",
+  "checked_at": "2026-11-19T13:30:17.913Z",
   "errors": {},
   "items": [
+    {
+      "id": "tuk-ce97da2294f365d5cd",
+      "title": "[학사운영팀] 수료예정확인서 발급에 대한 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-19",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
     {
       "id": "tuk-3465e5d1ae213ccf27",
       "title": "2026-2학기 학부생 분납자 4차등록 안내",
