@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-21T13:10:21.861Z",
-  "checked_at": "2026-11-21T13:10:21.861Z",
+  "updated_at": "2026-11-21T18:59:39.086Z",
+  "checked_at": "2026-11-21T18:59:39.086Z",
   "errors": {},
   "items": [
     {
@@ -488,9 +488,9 @@
       ]
     },
     {
-      "id": "tuk-e43a0a5cb661f1e81c",
-      "title": "[학사운영팀] 2026학년도 2학기 유급신청 안내(11. 16.(월) 10:00~20.(금) 17:00)",
-      "category": "대외활동",
+      "id": "tuk-fe6289cfdf55bbfa2e",
+      "title": "2026학년도 동계 캐나다 토론토 캡스톤 디자인 참가자 모집 안내( ~ 11.15.(일), 23:59까지)",
+      "category": "공모전",
       "type": "notice",
       "date": "2026-11-09",
       "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
@@ -511,9 +511,9 @@
       ]
     },
     {
-      "id": "tuk-fe6289cfdf55bbfa2e",
-      "title": "2026학년도 동계 캐나다 토론토 캡스톤 디자인 참가자 모집 안내( ~ 11.15.(일), 23:59까지)",
-      "category": "공모전",
+      "id": "tuk-e43a0a5cb661f1e81c",
+      "title": "[학사운영팀] 2026학년도 2학기 유급신청 안내(11. 16.(월) 10:00~20.(금) 17:00)",
+      "category": "대외활동",
       "type": "notice",
       "date": "2026-11-09",
       "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
