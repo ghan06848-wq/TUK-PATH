@@ -1,9 +1,78 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-22T19:00:24.304Z",
-  "checked_at": "2026-11-22T19:00:24.304Z",
+  "updated_at": "2026-11-23T01:28:16.479Z",
+  "checked_at": "2026-11-23T01:28:16.479Z",
   "errors": {},
   "items": [
+    {
+      "id": "tuk-8211981a9b974d3cc8",
+      "title": "2026학년도 2학기 꿈지원장학금 신청 안내",
+      "category": "교내장학금",
+      "type": "notice",
+      "date": "2026-11-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/374/154983/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 장학공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-590a46941e0b58f5b1",
+      "title": "[커뮤니케이션교육센터] 2026 동계방학 토익향상캠프1,2(종일반/반일반) 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-23",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/154985/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-40f1a54404a50c5722",
+      "title": "2026학년도 2학기 기말고사 시행 및 부정행위, 추가시험 안내",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-23",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
     {
       "id": "tuk-93fbc6f693487f3cf3",
       "title": "[도서관] AI와 노동의 미래ㅣ국립중앙박물관 굿즈의 사례로 보는 전통예술의 재발견과 문화",
