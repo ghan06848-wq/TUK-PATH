@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-24T07:33:56.922Z",
-  "checked_at": "2026-11-24T07:33:56.922Z",
+  "updated_at": "2026-11-24T13:29:37.371Z",
+  "checked_at": "2026-11-24T13:29:37.372Z",
   "errors": {},
   "items": [
     {
@@ -51,9 +51,9 @@
       ]
     },
     {
-      "id": "tuk-3a581023657a16e4ab",
-      "title": "[현장실습지원센터] 2026 산학협력 인재양성교과 우수사례 공모전 (~12/31)",
-      "category": "공모전",
+      "id": "tuk-c0d6e8acfe49f6ccf3",
+      "title": "[미래대학] 2027학년도 1학기 다전공(복수전공)/부전공 신청 안내(변경 및 취소 포함)",
+      "category": "대외활동",
       "type": "notice",
       "date": "2026-11-24",
       "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
@@ -74,9 +74,9 @@
       ]
     },
     {
-      "id": "tuk-c0d6e8acfe49f6ccf3",
-      "title": "[미래대학] 2027학년도 1학기 다전공(복수전공)/부전공 신청 안내(변경 및 취소 포함)",
-      "category": "대외활동",
+      "id": "tuk-3a581023657a16e4ab",
+      "title": "[현장실습지원센터] 2026 산학협력 인재양성교과 우수사례 공모전 (~12/31)",
+      "category": "공모전",
       "type": "notice",
       "date": "2026-11-24",
       "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
