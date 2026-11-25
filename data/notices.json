@@ -1,9 +1,32 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-25T01:30:12.554Z",
-  "checked_at": "2026-11-25T01:30:12.554Z",
+  "updated_at": "2026-11-25T07:38:20.138Z",
+  "checked_at": "2026-11-25T07:38:20.138Z",
   "errors": {},
   "items": [
+    {
+      "id": "tuk-f32491bab67b7ba10a",
+      "title": "제14회 한국공학대학교 총장배 CAE 경진대회 수상작 발표",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-11-25",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
     {
       "id": "tuk-263bd9a093e0702222",
       "title": "2027년 1학기 한국농어촌희망재단 농림축산식품부 대학장학금 선발 안내",
