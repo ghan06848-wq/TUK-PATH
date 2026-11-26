@@ -1,9 +1,55 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-26T01:30:24.304Z",
-  "checked_at": "2026-11-26T01:30:24.304Z",
+  "updated_at": "2026-11-26T07:36:38.797Z",
+  "checked_at": "2026-11-26T07:36:38.797Z",
   "errors": {},
   "items": [
+    {
+      "id": "tuk-05b74e8a2f5add8799",
+      "title": "[JUMP START] 나의 공부 흔적이 특별한 혜택으로! 학습노트 공모전",
+      "category": "공모전",
+      "type": "notice",
+      "date": "2026-11-26",
+      "url": "https://tukorea.ac.kr/bbs/tukorea/1118/155105/artclView.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 비교과공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
+    {
+      "id": "tuk-eaf1c99b209f928f8b",
+      "title": "[D-1]★게임,전자,기계,기설,메카 급구★ 전원 참여선물 증정!!\"교육성과 통합진단\"",
+      "category": "대외활동",
+      "type": "notice",
+      "date": "2026-11-26",
+      "url": "https://haksa.tukorea.ac.kr/haksa/2996/subview.do",
+      "description": "학교 공식 공개 게시판에 등록된 공지입니다. 신청 자격과 접수 기간은 원문에서 확인해 주세요.",
+      "source": "한국공학대학교 학사공지",
+      "majors": [
+        "전체"
+      ],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tags": [
+        "학교 공식 공지",
+        "지원조건 확인"
+      ]
+    },
     {
       "id": "tuk-fe5736ea215574ec9e",
       "title": "2026학년도 동계학기 프로그래밍기초역량강화 비교과프로그램 안내",
